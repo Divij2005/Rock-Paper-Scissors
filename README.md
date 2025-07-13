@@ -1,1 +1,2 @@
 # Rock-Paper-Scissors
+This project is a straightforward and engaging Rock Paper Scissors game developed using HTML, CSS, and JavaScript. It features a clean and responsive user interface that allows players to choose between rock, paper, or scissors, with the computer randomly selecting its move in real time. The game logic is written in JavaScript, determining the winner based on standard rules, updating scores dynamically, and displaying the result after each round.
